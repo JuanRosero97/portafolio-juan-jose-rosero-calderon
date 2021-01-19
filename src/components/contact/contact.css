@@ -1,0 +1,124 @@
+.contact{
+    background: rgba(6, 12, 34, 0.98);
+    position: relative;
+    width:100%;
+    padding-bottom: 7%;
+}
+
+.contact .head .lead {
+    text-align: center;
+    font-weight: 400 !important; 
+    font-family: "Raleway", sans-serif;
+    line-height: 2rem;
+    color: rgb(255, 255, 255);    
+    padding-bottom: 8%;
+    padding-top: 1%;
+}
+
+.contact h5{
+    padding-top:10%;
+    text-align: center;
+    color: #f06000;
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: .3rem;
+    text-transform: uppercase;
+    font-family: "Raleway", sans-serif;
+}
+
+.contact h1{
+    text-align: center;
+    padding-top: 0.1%;
+    font-family: "Raleway", sans-serif;
+    color:white;
+}
+
+.contact .row1 {
+    border-radius: 1%;
+    padding: 5% 5% 5% 5% ;
+    background-color: white;
+}
+
+.contactForm {
+    font-family: "Raleway", sans-serif;
+    font-weight: 600 !important;
+}
+
+.contactFilds{
+    text-align: left;
+}
+
+.buttonContact{
+    font-family: "Raleway", sans-serif;
+    background-color: rgb(240, 96, 0) !important;
+    border-color: #f06000 !important;
+    color:rgba(255, 255, 255, 0.9)  !important;
+  }
+  
+  .buttonContact:hover{
+    background-color: #e06a1c !important;
+    color: rgb(255, 255, 255)  !important;
+  }
+
+.error{
+    border-color:red !important;
+    color:black !important;
+    font-weight: 500 !important;
+}
+
+.textarea {
+    resize: none;
+  }
+
+.input-feedback{
+    font-weight: 400 !important;
+    color: red !important;    
+    font-size: 15px;
+}
+
+.requerid {
+    color: red !important;
+    display: inline-block !important;
+}
+
+.contact span{
+    padding-left: 10px;
+    font-family: "Raleway", sans-serif;
+}
+
+.textSendError{
+    color: red;
+    padding-top: 5%;
+    text-align: left;
+}
+
+.textSendOk{
+    color: green;
+    padding-top: 5%;
+    text-align: left;
+}
+
+.contact .row2{
+    
+    padding: 7% 8% 0% 0%;
+    width: 100%;
+    font-family: "Raleway", sans-serif;
+    text-align: center;
+}
+
+.contact .row2 h3 {
+    color: #f06000;
+    letter-spacing: .2rem;
+    width: 100%;
+    font-size: 25px;
+}
+
+.contact .row2 p {
+    color: white;
+    width: 100%;
+    font-size: 17px;
+}
+
+.contact hr{
+    background-color: rgba(202, 206, 221, 0.3);
+}

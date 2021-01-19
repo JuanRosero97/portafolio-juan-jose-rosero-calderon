@@ -1,0 +1,98 @@
+.resume{
+    background: #ebebeb;
+    position: relative;
+    width:100%;
+    padding-bottom: 7%;
+}
+
+.resume .head .lead {
+    text-align: center;
+    font-weight: 400 !important; 
+    font-family: "Raleway", sans-serif;
+    line-height: 2rem;
+    color: black;    
+    padding-bottom: 3%;
+    padding-top: 1%;
+}
+
+.resume h5{
+    padding-top:10%;
+    text-align: center;
+    color: #f06000;
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: .3rem;
+    text-transform: uppercase;
+    font-family: "Raleway", sans-serif;
+}
+
+.resume h1{
+    text-align: center;
+    padding-top: 0.1%;
+    font-family: "Raleway", sans-serif;
+}
+
+.resume .resume-title {
+    font-size: 26px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: "Raleway", sans-serif;
+    text-align: left;
+    color: #000000;
+    font-weight: bold;
+  }
+  
+.resume .resume-item {
+    padding: 0 0 10px 20px;
+    margin-top: 10px;
+    border-left: 2px solid #f06000;
+    position: relative;
+    text-align: left;
+  }
+  
+.resume .resume-item h4 {
+    line-height: 18px;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-family: "Raleway", sans-serif;
+    color: rgba(6, 12, 34, 0.98);
+    margin-bottom: 8px;
+    letter-spacing: .2rem;
+  }
+  
+.resume .resume-item h5 {
+    font-size: 16px;
+    padding: 5px 15px;
+    display: inline-block;
+    font-weight: 600;
+    margin-bottom: 8px;
+    color: #000000;
+  }
+
+
+.resume .resume-item:last-child {
+    padding-bottom: 0;
+  }
+  
+.resume .resume-item::before {
+    content: "";
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    border-radius: 40%;
+    left: -9px;
+    top: 0;
+    background: #fff;
+    border: 2px solid #f06000;
+  }
+
+
+/* Responsive */
+
+@media screen and (min-width:768px) {
+    .head .col2{
+        padding-left: 10%;
+    }
+}

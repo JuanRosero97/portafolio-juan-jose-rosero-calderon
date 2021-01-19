@@ -1,0 +1,128 @@
+.jumbotron {
+  position: relative;
+  background: url("../../img/back1.jpeg") top center;
+   height: 100vh;
+  margin-top: -30px; 
+  min-height: 710px;  
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow: hidden;  
+  padding-top: 0px; 
+}
+
+.jumbotron:before {
+  content: "";
+  background: rgba(6, 12, 34, 0.6);
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.jumbotron .container {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  top: 10px;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  padding: 0 15px;
+}
+
+@media (max-width: 991px) {
+  .jumbotron .container {
+    top: 70px;
+  }
+}
+
+@media (max-width: 991px) {
+  .jumbotron h1 {
+    font-size: 34px;
+  }
+}
+
+
+@media (max-width: 991px) {
+  .jumbotron p {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 850px) {
+  .jumbotron {
+      background-position-x: -400px;
+      background-position-y: 30px;
+  }
+}
+
+@media screen and (max-width:768px) {
+  .jumbotron {
+    background-position-x: -500px;
+    background-position-y: 30px;
+}
+}
+
+@media screen and (max-width: 600px) {
+  .jumbotron {
+    background-position-x: -550px;
+    background-position-y: 30px;
+}
+}
+
+@media screen and (max-width: 360px) {
+  .jumbotron {
+    background-position-x: -600px;
+    background-position-y: 30px;
+}
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 70px;
+  font-weight: 600;
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+}
+
+.jumbotron h5 {
+  color: #f06000;
+  font-family: "Raleway", sans-serif;
+	padding-bottom: 4px;
+	margin-bottom: 0;
+	text-transform: uppercase;
+	letter-spacing: .3rem;
+	text-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
+}
+
+.jumbotron .p {
+  color: #ebebeb;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.intro-social {
+	display: block;
+	position: absolute;
+	width: 100%;
+	left: 0;
+	bottom: 10%;
+	font-size: 2.0rem;
+	margin: 0;
+	padding: 0;
+}
+.intro-social li {
+	display: inline-block;
+	margin: 0 20px;
+	padding: 0;
+}
+.intro-social li a, .intro-social li a:visited {
+	color: #FFFFFF;
+}
+.intro-social li a:hover{
+	color: #f06000;
+}

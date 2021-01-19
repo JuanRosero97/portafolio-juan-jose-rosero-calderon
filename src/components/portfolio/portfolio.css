@@ -1,0 +1,75 @@
+.portfolio{
+    background: #fff;
+    position: relative;
+    width:100%;
+    padding-bottom: 7%;
+}
+
+.portfolio .head .lead {
+    text-align: center;
+    font-weight: 400 !important; 
+    font-family: "Raleway", sans-serif;
+    line-height: 2rem;
+    color: black;    
+    padding-bottom: 3%;
+    padding-top: 1%;
+}
+
+.portfolio h5{
+    padding-top:10%;
+    text-align: center;
+    color: #f06000;
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: .3rem;
+    text-transform: uppercase;
+    font-family: "Raleway", sans-serif;
+}
+
+.portfolio h1{
+    text-align: center;
+    padding-top: 0.1%;
+    font-family: "Raleway", sans-serif;
+}
+
+.card-center{
+    transition: all  0.3s ease-in-out;
+    box-shadow: 5px 10px 25px 0 rgba(6, 12, 34, 0.1);
+}
+.card-center:hover{
+    box-shadow: 5px 10px 25px 0 rgba(6, 12, 34, 0.3);
+}
+.cardColumn{
+    margin-top: 40px;
+}
+
+.cardTitle {
+    font-family: "Raleway", sans-serif;
+    font-weight: bold !important;    
+}
+
+.cardDescript{
+    font-family: "Raleway", sans-serif;
+    font-weight: 500 !important;
+}
+
+.cardButton{
+    font-family: "Raleway", sans-serif;
+    background-color: rgb(240, 96, 0) !important;
+    border-color: #f06000 !important;
+    color:rgba(255, 255, 255, 0.9)  !important;
+}
+
+.cardButton:hover{
+    background-color: #e06a1c !important;
+    color: rgb(255, 255, 255)  !important;
+}
+
+.overload{
+    overflow: hidden;
+    max-height: 300px;
+}
+
+.cardImg {
+    padding: 2px !important;
+}

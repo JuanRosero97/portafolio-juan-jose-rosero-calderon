@@ -1,0 +1,28 @@
+.divArrow {
+    position: fixed;
+    bottom: 3%;
+    right: 3%;
+}
+
+.divArrow .arrowButton{
+	display: block;
+	height: 40px;
+	width: 40px;
+	line-height: 38px;
+	text-align: center;
+    border-radius: 50%;
+    background-color: rgb(240, 96, 0) !important;
+    border-color: #f06000 !important;
+    color:rgba(255, 255, 255, 0.9)  !important;
+    transition: 0.2s ease-in-out;
+}
+
+.divArrow .arrowButton i{
+    font-size: 120%;
+}
+
+.divArrow .arrowButton:hover{
+    background-color: #c5611f !important;
+    border-color: #e06a1c !important;
+    color: rgb(255, 255, 255) !important;
+}

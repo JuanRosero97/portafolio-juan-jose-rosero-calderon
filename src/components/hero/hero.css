@@ -60,9 +60,16 @@
   }
 }
 
-@media screen and (max-width:768px) {
+@media (max-height:660px) and (max-width:768px) {
   .jumbotron {
-    background-position-x: -500px;
+    background-position-x: -600px;
+    background-position-y: 30px;
+}
+}
+
+@media (min-height:1000px) and (max-width:768px) {
+  .jumbotron {
+    background-position-x: -800px;
     background-position-y: 30px;
 }
 }

@@ -42,7 +42,7 @@
     background-position: 43% 22%;
     border-radius: 50%;
     background-size: 150% auto;
-    margin: 18% 0 0 35%;
+    margin: 2rem 0 0 8rem;
     float: center;
 }
 
@@ -125,13 +125,13 @@
 
 @media screen and (max-width: 1024px) {
     .imgIntro {
-        margin: 20% 0 0 35%;
+        margin: 2rem 0 0 2rem;
     }
 }
 
 @media screen and (max-width:768px) {
     .imgIntro {
-        margin: 10% 0 0 33%;
+        margin: 2rem 0 0 10rem;
     }
     .content .col2{
         padding-right: 1%;
@@ -152,13 +152,15 @@
     .content .col2{
         padding-right: 5%;
     }
+
 }
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 500px) {
     .imgIntro {
-        height: 120px;
-        width: 120px;
-        margin: 10% 0 0 28%;
+
+            margin: 2rem 0 0 5rem;
+            padding-right: 2rem !important;
+
     }
     .rowContainer .col-md-8{
         max-height: 830px;

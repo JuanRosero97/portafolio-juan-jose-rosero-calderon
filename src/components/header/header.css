@@ -68,6 +68,7 @@
     box-shadow: none;
     background-color: #050505;
     text-align: left;
+    margin-left: 10px !important;
   }
   .collapsed{
     margin-left: 20px !important;

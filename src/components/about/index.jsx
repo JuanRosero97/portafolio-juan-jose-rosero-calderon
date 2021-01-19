@@ -23,13 +23,15 @@ const About = () => {
             <h5 className = "aboutTitle">Sobre mí</h5>
             <h1 className = "introTitle">Permítame presentarme</h1>
             <Container >
-                <div class="row" className="rowContainer">
-                    <div class="col-md-4">
+                <div class="col-12 mb-3 mb-sm-0" className="rowContainer">
+                    <div class="row">
+                    <div class="col-md-4 ">
                         <div className="imgIntro"></div>
                     </div>
                     <div class="col-md-8">
                         <h4 className= "lead"> Soy una persona con habilidades de proactividad, comunicación efectiva, trabajo en equipo y capacidad de planificación y organización. Puedo trabajar
                         como <b>desarrollador Full Stack, desarrollador móvil, diseñador UI/UX y diseñador web.</b></h4>
+                    </div>
                     </div>
                 </div>
             </Container>

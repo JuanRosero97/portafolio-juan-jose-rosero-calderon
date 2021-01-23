@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portafolio-juan-jose-rosero-calderon/static/css/main.dcd3b0dd.chunk.css",
-    "main.js": "/portafolio-juan-jose-rosero-calderon/static/js/main.ab37b9e9.chunk.js",
-    "main.js.map": "/portafolio-juan-jose-rosero-calderon/static/js/main.ab37b9e9.chunk.js.map",
+    "main.js": "/portafolio-juan-jose-rosero-calderon/static/js/main.0e5f174b.chunk.js",
+    "main.js.map": "/portafolio-juan-jose-rosero-calderon/static/js/main.0e5f174b.chunk.js.map",
     "runtime-main.js": "/portafolio-juan-jose-rosero-calderon/static/js/runtime-main.803f535b.js",
     "runtime-main.js.map": "/portafolio-juan-jose-rosero-calderon/static/js/runtime-main.803f535b.js.map",
     "static/css/2.16d06ed6.chunk.css": "/portafolio-juan-jose-rosero-calderon/static/css/2.16d06ed6.chunk.css",
@@ -25,6 +25,6 @@
     "static/css/2.16d06ed6.chunk.css",
     "static/js/2.227d3631.chunk.js",
     "static/css/main.dcd3b0dd.chunk.css",
-    "static/js/main.ab37b9e9.chunk.js"
+    "static/js/main.0e5f174b.chunk.js"
   ]
 }

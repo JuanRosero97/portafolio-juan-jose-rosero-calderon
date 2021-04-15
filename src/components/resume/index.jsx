@@ -10,7 +10,8 @@ const education = [{title: "Ingeniero en Automática Industrial", date : "2015 -
                     {title: "Educación Básica", date : "2010 - 2014", ubication : "I.E. Normal Superior, Col"},
                 ]
 
-const experience = [{title: "Desarrollador web", date : "01/21 - 01/21", ubication : "Independiente, Popayán - Col"},
+const experience = [{title: "Desarrollador backend remoto", date : "01/21 - actual", ubication : "Fabioarias SF-CO, Bogotá - Col"},
+                    {title: "Desarrollador web", date : "01/21 - 01/21", ubication : "Independiente, Popayán - Col"},
                     {title: "Web Master", date : "04/19 - 12/20", ubication : "MegaRobot Popayán, Popayán - Col"},
                     {title: "Desarrollador", date : "02/20 - 10/20", ubication : "Universidad del Cauca, Popayán - Col"},
                     {title: "Desarrollador", date : "08/18 - 03/19", ubication : "Universidad del Cauca, Popayán - Col"},

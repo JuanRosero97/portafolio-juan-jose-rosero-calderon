@@ -9,8 +9,9 @@ const skills = [{name: "React.js"   , percent: 80},
                 {name: "HTML"       , percent: 60},
                 {name: "CSS"        , percent: 70},
                 {name: "Javascript" , percent: 65},
+                {name: "Typescript" , percent: 75},
                 {name: "Java"       , percent: 73},
-                {name: "Git"        , percent: 53},]
+                {name: "Git"        , percent: 63},]
 
 const About = () => {
     

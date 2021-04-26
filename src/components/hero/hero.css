@@ -1,6 +1,6 @@
 .jumbotron {
   position: relative;
-  background: url("../../img/back1.jpeg") top center;
+  background: url("../../img/back1.jpg") top center;
   height: 100vh;
   margin-top: 0px;
   min-height: 710px;
@@ -8,11 +8,13 @@
   background-repeat: no-repeat;
   overflow: hidden;
   padding-top: 0px;
+  background-position-x: 0px;
+  background-position-y: -120px;
 }
 
 .jumbotron:before {
   content: "";
-  background: rgba(6, 12, 34, 0.6);
+  background: rgba(6, 12, 34, 0.5);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -24,7 +26,7 @@
   position: absolute;
   bottom: 0;
   left: 0;
-  top: 10px;
+  top: 40px;
   right: 0;
   display: flex;
   justify-content: center;
@@ -52,6 +54,13 @@
   }
 }
 
+@media (max-height: 920px) and (max-width: 1024px) {
+  .jumbotron {
+    background-position-x: 0px;
+    background-position-y: 0px;
+  }
+}
+
 @media screen and (max-width: 850px) {
   .jumbotron {
     background-position-x: -400px;
@@ -61,7 +70,7 @@
 
 @media (max-height: 660px) and (max-width: 768px) {
   .jumbotron {
-    background-position-x: -600px;
+    background-position-x: -200px;
     background-position-y: 30px;
   }
 }
@@ -75,8 +84,8 @@
 
 @media screen and (max-width: 600px) {
   .jumbotron {
-    background-position-x: -550px;
-    background-position-y: 30px;
+    background-position-x: -400px;
+    background-position-y: -1px;
   }
 }
 

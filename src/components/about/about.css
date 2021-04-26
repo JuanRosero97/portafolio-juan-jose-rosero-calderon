@@ -129,9 +129,9 @@
 }
 
 @media screen and (max-width: 768px) {
-  .imgIntro {
+  /*.imgIntro {
     margin: 2rem 0 0 10rem;
-  }
+  }*/
   .content .col2 {
     padding-right: 1%;
   }

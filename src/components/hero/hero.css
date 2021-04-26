@@ -8,7 +8,6 @@
   background-repeat: no-repeat;
   overflow: hidden;
   padding-top: 0px;
-  background-position-y: -120px;
 }
 
 .jumbotron:before {
@@ -25,7 +24,7 @@
   position: absolute;
   bottom: 0;
   left: 0;
-  top: 40px;
+  top: 10px;
   right: 0;
   display: flex;
   justify-content: center;

@@ -8,7 +8,6 @@
   background-repeat: no-repeat;
   overflow: hidden;
   padding-top: 0px;
-  background-position-x: 0px;
   background-position-y: -120px;
 }
 
@@ -54,13 +53,6 @@
   }
 }
 
-@media (max-height: 920px) and (max-width: 1024px) {
-  .jumbotron {
-    background-position-x: 0px;
-    background-position-y: 0px;
-  }
-}
-
 @media screen and (max-width: 850px) {
   .jumbotron {
     background-position-x: -400px;
@@ -70,7 +62,7 @@
 
 @media (max-height: 660px) and (max-width: 768px) {
   .jumbotron {
-    background-position-x: -200px;
+    background-position-x: -600px;
     background-position-y: 30px;
   }
 }
@@ -84,8 +76,8 @@
 
 @media screen and (max-width: 600px) {
   .jumbotron {
-    background-position-x: -400px;
-    background-position-y: -1px;
+    background-position-x: -550px;
+    background-position-y: 30px;
   }
 }
 

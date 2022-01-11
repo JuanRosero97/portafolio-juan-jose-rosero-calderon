@@ -7,19 +7,22 @@ import imgMERN from '../../img/mern.png'
 import imgMiPapy from '../../img/mipapy.png'
 import imgPop from '../../img/pop.png'
 import imgMegaRobot from '../../img/megarobot.PNG'
+import imgMrSami from '../../img/mrsami.PNG'
 import 'aos/dist/aos.css'
 import './portfolio.css'
 
-const developments =   [{img: imgMERN, link:'https://github.com/JuanRosero97/categories-mern', title:'MERN Stack', 
+const developments =   [
+                        {img: imgMERN, link:'https://github.com/JuanRosero97/categories-mern', title:'MERN Stack', 
                          description: "Construí una API RESTful en Node.js usando express.js y MongoDB. Diseñé una base de datos donde se puede realizar CRUD gracias a un _id de identificación. En este caso, utilice Material Ui para el diseño FRONT-END."},
-                        {img: imgMegaRobot, link:'https://www.megarobotpop.com/', title:'Web Master',
+                        {img: imgMegaRobot, link:'', title:'Web Master', info:"No disponible",
                          description: "Diseñé y dí mantenimiento a la página web creada en Wordpress para un ecommerce."},
                         {img: imgEMC, link:'https://www.facebook.com/permalink.php?story_fbid=1626519460881991&id=436341623233120', title:'EMC.apk',
                          description: "Desarrollé una app en Android Studio para personas mayores de 65 años que padecen pérdida de Memoria a Corto Plazo (MCP)."},
                         {img: imgPop, link:'https://github.com/JuanRosero97/PopShow-android-app', title:'PopShow app',
                          description: "Desarrollé una app tanto para IOs como Android, donde se brindó soporte para español e inglés y se incluyó una BD en SQLite para realizar un CRUD a los sitios turisticos de Popayán."},
                         {img: imgMiPapy, link:'', title:'MiPapy.apk', info:'Independiente',
-                         description: "Desarrollé una aplicación móvil en Thunkable para mejorar la comprensión de las operaciones matemáticas básicas para niños."}]
+                         description: "Desarrollé una aplicación móvil en Thunkable para mejorar la comprensión de las operaciones matemáticas básicas para niños."},
+                         {img: imgMrSami, link:'https://mrsamibot.com/', title:'Web Master',description: "Diseñé y dí mantenimiento a la página web creada en Wordpress para un ecommerce."}]
 
 const Portfolio = () => {
 

@@ -35,13 +35,13 @@
 
 .imgIntro {
   position: relative;
-  background-image: url("../../img/juan1.jpg");
+  background-image: url("../../img/4T6A9683.jpg");
   height: 150px;
   width: 150px;
   background-repeat: no-repeat;
-  background-position: 50% 0%;
+  background-position: 70% 0%;
   border-radius: 50%;
-  background-size: 157% auto;
+  background-size: 150% auto;
   margin: 2rem 0 0 8rem;
   float: center;
 }

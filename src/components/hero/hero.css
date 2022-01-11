@@ -1,14 +1,14 @@
 .jumbotron {
   position: relative;
-  background: url("../../img/back1.jpeg") top center;
+  background: url("../../img/JDC_0340.JPG") top center;
   height: 100vh;
   margin-top: 0px;
-  min-height: 710px;
+  min-height: 610px;
   background-size: cover;
   background-repeat: no-repeat;
   overflow: hidden;
   padding-top: 0px;
-  background-position-y: -120px;
+  background-position-y: -560px;
 }
 
 .jumbotron:before {

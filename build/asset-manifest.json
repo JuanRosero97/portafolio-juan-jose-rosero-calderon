@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/portafolio-juan-jose-rosero-calderon/static/css/main.aff4b76f.chunk.css",
-    "main.js": "/portafolio-juan-jose-rosero-calderon/static/js/main.c9403222.chunk.js",
-    "main.js.map": "/portafolio-juan-jose-rosero-calderon/static/js/main.c9403222.chunk.js.map",
+    "main.css": "/portafolio-juan-jose-rosero-calderon/static/css/main.1dd936d2.chunk.css",
+    "main.js": "/portafolio-juan-jose-rosero-calderon/static/js/main.584bba64.chunk.js",
+    "main.js.map": "/portafolio-juan-jose-rosero-calderon/static/js/main.584bba64.chunk.js.map",
     "runtime-main.js": "/portafolio-juan-jose-rosero-calderon/static/js/runtime-main.45b86880.js",
     "runtime-main.js.map": "/portafolio-juan-jose-rosero-calderon/static/js/runtime-main.45b86880.js.map",
     "static/css/2.a7a85ca3.chunk.css": "/portafolio-juan-jose-rosero-calderon/static/css/2.a7a85ca3.chunk.css",
@@ -10,21 +10,22 @@
     "static/js/2.8506b3ec.chunk.js.map": "/portafolio-juan-jose-rosero-calderon/static/js/2.8506b3ec.chunk.js.map",
     "index.html": "/portafolio-juan-jose-rosero-calderon/index.html",
     "static/css/2.a7a85ca3.chunk.css.map": "/portafolio-juan-jose-rosero-calderon/static/css/2.a7a85ca3.chunk.css.map",
-    "static/css/main.aff4b76f.chunk.css.map": "/portafolio-juan-jose-rosero-calderon/static/css/main.aff4b76f.chunk.css.map",
+    "static/css/main.1dd936d2.chunk.css.map": "/portafolio-juan-jose-rosero-calderon/static/css/main.1dd936d2.chunk.css.map",
     "static/js/2.8506b3ec.chunk.js.LICENSE.txt": "/portafolio-juan-jose-rosero-calderon/static/js/2.8506b3ec.chunk.js.LICENSE.txt",
+    "static/media/about.css": "/portafolio-juan-jose-rosero-calderon/static/media/4T6A9683.b2b04f4f.jpg",
     "static/media/EMC.fe687990.jpeg": "/portafolio-juan-jose-rosero-calderon/static/media/EMC.fe687990.jpeg",
-    "static/media/hero.css": "/portafolio-juan-jose-rosero-calderon/static/media/back1.00482bb0.jpeg",
-    "static/media/about.css": "/portafolio-juan-jose-rosero-calderon/static/media/juan1.355e2495.jpg",
+    "static/media/hero.css": "/portafolio-juan-jose-rosero-calderon/static/media/JDC_0340.47bea147.JPG",
     "static/media/megarobot.2d8b72a9.PNG": "/portafolio-juan-jose-rosero-calderon/static/media/megarobot.2d8b72a9.PNG",
     "static/media/mern.8d1f6d0d.png": "/portafolio-juan-jose-rosero-calderon/static/media/mern.8d1f6d0d.png",
     "static/media/mipapy.404127c9.png": "/portafolio-juan-jose-rosero-calderon/static/media/mipapy.404127c9.png",
+    "static/media/mrsami.c46e78c4.PNG": "/portafolio-juan-jose-rosero-calderon/static/media/mrsami.c46e78c4.PNG",
     "static/media/pop.761e62a7.png": "/portafolio-juan-jose-rosero-calderon/static/media/pop.761e62a7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.45b86880.js",
     "static/css/2.a7a85ca3.chunk.css",
     "static/js/2.8506b3ec.chunk.js",
-    "static/css/main.aff4b76f.chunk.css",
-    "static/js/main.c9403222.chunk.js"
+    "static/css/main.1dd936d2.chunk.css",
+    "static/js/main.584bba64.chunk.js"
   ]
 }

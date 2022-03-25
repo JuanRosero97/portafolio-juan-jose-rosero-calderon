@@ -53,7 +53,7 @@
   }
 }
 
-@media screen and (max-width: 850px) {
+/* @media screen and (max-width: 850px) {
   .jumbotron {
     background-position-x: -400px;
     background-position-y: 30px;
@@ -85,6 +85,42 @@
   .jumbotron {
     background-position-x: -600px;
     background-position-y: 30px;
+  }
+} */
+
+/* For Desktop View */
+@media screen and (min-width: 1024px) {
+}
+
+/* For Tablet View */
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  .jumbotron {
+    background-position-x: 0px;
+    background-position-y: -260px;
+  }
+}
+
+/* For Mobile Portrait View */
+@media screen and (max-device-width: 480px) and (orientation: portrait) {
+  .jumbotron {
+    background-position-x: 10px;
+    background-position-y: -60px;
+  }
+}
+
+/* For Mobile Landscape View */
+@media screen and (max-device-width: 640px) and (orientation: landscape) {
+  .jumbotron {
+    background-position-x: 100px;
+    background-position-y: -60px;
+  }
+}
+
+/* For Mobile Phones Portrait or Landscape View */
+@media screen and (max-device-width: 640px) {
+  .jumbotron {
+    background-position-x: 0px;
+    background-position-y: -60px;
   }
 }
 
